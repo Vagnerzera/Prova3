@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Transportadora FastEntreg",
+    "price": 25.99
+  },
+  {
+    "type": "Transportadora São Jorge",
+    "price": 9.99
+  },
+  {
+    "type": "Correios",
+    "price": 2.99
+  }
+]
